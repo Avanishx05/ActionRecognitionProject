@@ -1,0 +1,205 @@
+16
+00:00:00,159 --> 00:00:03,869
+so we are gonna start by connecting the positive end of the
+cable
+
+17
+00:00:03,869 --> 00:00:11,479
+to the positive post of the dead
+battery. then we will connect
+
+18
+00:00:11,479 --> 00:00:15,009
+this positive end to the positive post
+on the live battery.
+
+19
+00:00:15,009 --> 00:00:21,460
+now for the negative. you wanna connect negative
+to negative.
+
+20
+00:00:21,460 --> 00:00:25,119
+so take the black end the negative end.
+connect this
+
+21
+00:00:25,119 --> 00:00:29,060
+to the negative terminal on the live
+battery
+
+22
+00:00:29,060 --> 00:00:32,640
+and then the negative cable here
+
+23
+00:00:32,640 --> 00:00:36,820
+to the post on the dead battery. now as an
+option
+
+24
+00:00:36,820 --> 00:00:40,619
+you can connect this the negative end
+
+25
+00:00:40,619 --> 00:00:44,930
+to either the engine block or the frame
+of the car. so is it really that important
+
+26
+00:00:44,930 --> 00:00:45,360
+to
+
+27
+00:00:45,360 --> 00:00:49,040
+connect the cables in that exact order.
+you're full of questions today aren't
+
+28
+00:00:49,040 --> 00:00:50,130
+you.
+
+29
+00:00:50,130 --> 00:00:54,399
+actually you're asking great questions.
+it is important to connect positive to
+
+30
+00:00:54,399 --> 00:00:55,070
+positive and
+
+31
+00:00:55,070 --> 00:00:59,600
+negative to negative. because the battery's
+current is designed to only flow in one
+
+32
+00:00:59,600 --> 00:01:00,290
+direction.
+
+33
+00:01:00,290 --> 00:01:03,939
+if that current is interrupted we could
+have a battery explosion.
+
+34
+00:01:03,939 --> 00:01:08,599
+I wouldn't want that. the reason we
+can connect the negative end of the cable
+
+35
+00:01:08,599 --> 00:01:12,480
+to the cars engine block or the frame on
+the car with the dead battery
+
+36
+00:01:12,480 --> 00:01:16,060
+is because this helps keep the positive and
+negative cable separated
+
+37
+00:01:16,060 --> 00:01:21,920
+and maximize the chance of effective
+grounding. now we've got the car separated
+
+38
+00:01:21,920 --> 00:01:25,760
+and i think we're ready to start the car with
+the live battery.
+
+39
+00:01:25,760 --> 00:01:32,140
+
+
+40
+00:01:32,140 --> 00:01:35,810
+why do you have to start this car first.
+well that's a good question.
+
+41
+00:01:35,810 --> 00:01:39,450
+by starting the car with the live
+battery first creates
+
+42
+00:01:39,450 --> 00:01:43,230
+a more efficient flow of current and the
+alternator of this car
+
+43
+00:01:43,230 --> 00:01:47,390
+is already recharging the battery here
+so that the flow to the car with the dead
+
+44
+00:01:47,390 --> 00:01:47,870
+battery
+
+45
+00:01:47,870 --> 00:01:51,489
+is going to be stronger that if we did
+not have this car running.
+
+46
+00:01:51,489 --> 00:02:01,340
+
+
+47
+00:02:01,340 --> 00:02:05,860
+now we've got the cables connected
+properly and the live car running
+
+48
+00:02:05,860 --> 00:02:08,950
+we need to let this situation sit for just a
+couple of minutes.
+
+49
+00:02:08,950 --> 00:02:12,490
+let the current flow from the good
+battery into the bad.
+
+50
+00:02:12,490 --> 00:02:17,090
+couple of minutes should do it.
+
+51
+00:02:17,090 --> 00:02:35,100
+done.
+
+52
+00:02:35,100 --> 00:02:43,600
+
+
+53
+00:02:43,600 --> 00:02:45,480
+okay I think you're ready to start the
+car
+
+54
+00:02:45,480 --> 00:03:04,349
+with the dead battery.
+
+55
+00:03:04,349 --> 00:03:08,659
+okay we've got the car with the dead
+battery started. now we can remove the cables.
+
+56
+00:03:08,659 --> 00:03:19,949
+you want to do that in the reverse order. so we start by
+removing the negative.
+
+57
+00:03:19,949 --> 00:03:27,650
+then we move on to the positive cables.
+
+58
+00:03:27,650 --> 00:03:31,840
+make sure when you're removing the cables
+that none of the ends touch.
+
+59
+00:03:31,840 --> 00:03:34,850
+that could result in a spark or maybe even a
+fire.

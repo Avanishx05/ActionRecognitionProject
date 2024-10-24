@@ -1,0 +1,70 @@
+6
+00:00:04,730 --> 00:00:10,600
+Ideally, that means hood to hood with a few
+inches in between. Step 2. Turn off both engines.
+
+7
+00:00:10,600 --> 00:00:16,660
+Never light a match or smoke near a car battery.
+The battery contains hydrogen, a highly explosive
+
+8
+00:00:16,660 --> 00:00:23,460
+gas. Step 3. Open the hoods of both cars.
+Step 4. Identify the positive and negatives
+
+9
+00:00:23,460 --> 00:00:27,880
+terminals on both car batteries. They will
+be labeled with a plus sign for positive and
+
+10
+00:00:27,880 --> 00:00:33,470
+minus sign for negative. Step 5. Connect one
+of the red clamps on the jumper cables to
+
+11
+00:00:33,470 --> 00:00:39,860
+the positive terminal on the dead battery.
+Step 6. Connect the other red clamp to the
+
+12
+00:00:39,860 --> 00:00:47,359
+positive terminal on the working car's battery.
+Step 7. Connect the black clamp on the jumper
+
+13
+00:00:47,359 --> 00:00:54,639
+cables to the negative terminal on the working
+car's battery. Step 8. Clip the remaining
+
+14
+00:00:54,639 --> 00:01:00,840
+black clamp to a clean metal part of the dead
+car's engine to ground the circuit. Step
+
+15
+00:01:00,840 --> 00:01:06,249
+9. Attempt to start the dead car. If it doesn't
+start, disconnect the jumper cables in the
+
+16
+00:01:06,249 --> 00:01:11,229
+reverse order: first the black clamps (starting
+with the once-dead car), then the red clamps
+
+17
+00:01:11,229 --> 00:01:19,969
+(starting with the working car). Start the
+engine of the working car and allow it to
+
+18
+00:01:19,969 --> 00:01:25,859
+run for about five minutes to boost its battery.
+Step 10. Turn off the working car and again
+
+19
+00:01:25,859 --> 00:01:29,840
+attempt to jump the dead car by connecting
+the cables in order and starting the
+

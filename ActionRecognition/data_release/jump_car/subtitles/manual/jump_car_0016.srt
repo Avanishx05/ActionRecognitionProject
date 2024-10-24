@@ -1,0 +1,200 @@
+11
+00:00:00,989 --> 00:00:04,559
+firstly check a flat battery for any
+signs of damage
+
+12
+00:00:04,559 --> 00:00:07,660
+such as cracks or leaks.
+
+13
+00:00:07,660 --> 00:00:10,790
+never try to jumpstart a car
+
+14
+00:00:10,790 --> 00:00:14,670
+with a damaged battery as there can be a risk
+of explosion
+
+15
+00:00:14,670 --> 00:00:19,550
+or fire. now we need a fully charge car
+to take power from.
+
+16
+00:00:19,550 --> 00:00:22,800
+cars can be jump-started from
+
+17
+00:00:22,800 --> 00:00:26,140
+any other car with the same voltage
+battery fitted.
+
+18
+00:00:26,140 --> 00:00:29,690
+most European cars operate a 12-volt
+
+19
+00:00:29,690 --> 00:00:34,000
+system. so check that both the flat and
+the charged batteries
+
+20
+00:00:34,000 --> 00:00:37,610
+match. ideally the charge should come from
+
+21
+00:00:37,610 --> 00:00:43,830
+a similar or larger powered car. locate the
+battery position
+
+22
+00:00:43,830 --> 00:00:48,090
+on both cars. then Park the fully charged
+car opposite
+
+23
+00:00:48,090 --> 00:00:51,599
+to the dead car allowing a walking gap
+between them
+
+24
+00:00:51,599 --> 00:00:57,509
+and turn off the engine. we now connect
+the batteries together
+
+25
+00:00:57,509 --> 00:01:00,869
+using the jump leads which must be done
+in this order.
+
+26
+00:01:00,869 --> 00:01:04,470
+connect one of the red
+
+27
+00:01:04,470 --> 00:01:08,539
+cable ends to the positive terminal on
+the dead battery.
+
+28
+00:01:08,539 --> 00:01:11,770
+this will be identified with a plus sign
+
+29
+00:01:11,770 --> 00:01:17,810
+and is often red in color. connect the
+opposite end
+
+30
+00:01:17,810 --> 00:01:23,270
+of the red cable to the positive
+terminal on the charged battery.
+
+31
+00:01:23,270 --> 00:01:27,010
+attach the blacks cable to the negative
+terminal
+
+32
+00:01:27,010 --> 00:01:32,930
+on the charged battery marked with a minus sign.
+
+33
+00:01:32,930 --> 00:01:34,990
+finally the opposite end
+
+34
+00:01:34,990 --> 00:01:38,050
+of the black cable to the negative
+terminal
+
+35
+00:01:38,050 --> 00:01:42,040
+on the dead battery. in some instances
+this can be
+
+36
+00:01:42,040 --> 00:01:45,540
+connected to any metal point in the
+car's
+
+37
+00:01:45,540 --> 00:01:48,590
+engine bay. ensure that the cable
+
+38
+00:01:48,590 --> 00:01:51,880
+ends are kept apart during this process.
+
+39
+00:01:51,880 --> 00:01:55,110
+ensure that all electrical items
+
+40
+00:01:55,110 --> 00:01:58,290
+within each car are switched off such
+as
+
+41
+00:01:58,290 --> 00:02:01,990
+lights heaters and radios. this makes it
+
+42
+00:02:01,990 --> 00:02:05,080
+easier to start the car by using less
+power.
+
+43
+00:02:05,080 --> 00:02:08,710
+start the fully charged car
+
+44
+00:02:08,710 --> 00:02:11,650
+and let it run for three to five minutes
+
+45
+00:02:11,650 --> 00:02:17,490
+revving the engine as you do so.
+
+46
+00:02:17,490 --> 00:02:20,640
+now attempt to start the car with the flat battery.
+
+47
+00:02:20,640 --> 00:02:23,830
+it should start straight away. if not
+
+48
+00:02:23,830 --> 00:02:27,580
+leave the cars connected for a few
+more minutes
+
+49
+00:02:27,580 --> 00:02:30,890
+allowing the charge to build up before trying
+again.
+
+50
+00:02:30,890 --> 00:02:34,630
+once the car has been started remove
+
+51
+00:02:34,630 --> 00:02:38,270
+the leads in the reverse sequence. take off
+
+52
+00:02:38,270 --> 00:02:41,440
+the negative on the flat battery followed
+
+53
+00:02:41,440 --> 00:02:45,130
+by negative on the charged battery. then
+
+54
+00:02:45,130 --> 00:02:48,420
+the positive on charged battery
+
+55
+00:02:48,420 --> 00:02:51,630
+and finally positive on the flat battery.

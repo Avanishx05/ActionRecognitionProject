@@ -1,0 +1,118 @@
+17
+00:00:00,500 --> 00:00:04,400
+okay step 1: this is our car with the dead
+battery and this is the car with the dead
+
+18
+00:00:04,400 --> 00:00:04,949
+battery.
+
+19
+00:00:04,949 --> 00:00:07,769
+you need to park them as close together
+as you can but without either of them touching
+
+20
+00:00:07,769 --> 00:00:09,190
+because that could cause a spark.
+
+21
+00:00:09,190 --> 00:00:15,360
+turn the ignition off in both cars. first off
+remove the battery cover.
+
+22
+00:00:15,360 --> 00:00:19,470
+you're looking for the positive terminal first. it is usually marked
+
+23
+00:00:19,470 --> 00:00:22,910
+red like this one here or have a
+little plus sign. you connect the
+
+24
+00:00:22,910 --> 00:00:27,960
+red jump lead to the positive battery
+terminal on the dead car.
+
+25
+00:00:27,960 --> 00:00:31,840
+step 2 connect the other end of the red
+jump lead to the positive
+
+26
+00:00:31,840 --> 00:00:35,670
+terminal on the good car. on this car the
+positive terminal isn't
+
+27
+00:00:35,670 --> 00:00:38,830
+colored red but it does have a plus
+sign here. so we
+
+28
+00:00:38,830 --> 00:00:42,100
+know that's the right one. step 3:
+connect the black jump lead
+
+29
+00:00:42,100 --> 00:00:45,860
+to the negative terminal on the donor
+car.
+
+30
+00:00:45,860 --> 00:00:49,800
+step four. connect the other end of the black
+jump lead to an Earth point
+
+31
+00:00:49,800 --> 00:00:55,540
+on the dead car.
+
+32
+00:00:55,540 --> 00:00:58,930
+step five. leave the jumper cables connected
+for about three minutes
+
+33
+00:00:58,930 --> 00:01:03,270
+so that the battery voltages can equalize. make sure
+that the cables
+
+34
+00:01:03,270 --> 00:01:06,290
+are moved well away from anything moving in
+the engine as well.
+
+35
+00:01:06,290 --> 00:01:10,270
+make sure you remove the battery cover
+at the engine compartment.
+
+36
+00:01:10,270 --> 00:01:14,060
+step 6: started the donor car and allow it to run for a
+minute.
+
+37
+00:01:14,060 --> 00:01:17,600
+then while it is still running start the
+dead car and leave both running for about
+
+38
+00:01:17,600 --> 00:01:18,420
+10 minutes.
+
+39
+00:01:18,420 --> 00:01:21,680
+don't remove the jump leads once the cars
+engines are running.
+
+40
+00:01:21,680 --> 00:01:24,700
+step 7. turn the ignition on both cars off
+
+41
+00:01:24,700 --> 00:01:28,990
+and remove the clamps in the reverse order
+that you put them on.

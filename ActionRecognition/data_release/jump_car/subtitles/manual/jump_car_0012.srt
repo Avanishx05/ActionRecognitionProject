@@ -1,0 +1,92 @@
+9
+00:00:01,030 --> 00:00:05,060
+position the vehicle's next to each
+other. then
+
+10
+00:00:05,060 --> 00:00:09,540
+open the hood and find where the
+batteries are. after you find the
+
+11
+00:00:09,540 --> 00:00:10,260
+batteries
+
+12
+00:00:10,260 --> 00:00:13,260
+look for a black or red
+
+13
+00:00:13,260 --> 00:00:16,770
+on the battery. black is minus. red
+
+14
+00:00:16,770 --> 00:00:21,210
+is plus. if there isn't a black or
+red look for a minus symbol
+
+15
+00:00:21,210 --> 00:00:24,590
+or a plus symbol to determine which
+terminal is which.
+
+16
+00:00:24,590 --> 00:00:28,850
+the most important thing to remember
+while jump starting your vehicle
+
+17
+00:00:28,850 --> 00:00:33,409
+is to not let the jumper cable ends touch
+each other. first
+
+18
+00:00:33,409 --> 00:00:36,870
+hook the positive jumper cable end first
+
+19
+00:00:36,870 --> 00:00:44,790
+laying the negative one to the side.
+
+20
+00:00:44,790 --> 00:00:45,950
+then
+
+21
+00:00:45,950 --> 00:00:49,030
+hook the negative jumper cable ends to the
+negative terminal.
+
+22
+00:00:49,030 --> 00:00:54,020
+
+
+23
+00:00:54,020 --> 00:00:57,020
+once you have the jumper cables hooked to the
+batteries
+
+24
+00:00:57,020 --> 00:01:07,539
+you then want to start the working vehicle
+and let it run for a few minutes.
+
+25
+00:01:07,539 --> 00:01:14,420
+after that try starting the vehicle with the
+dead battery.
+
+26
+00:01:14,420 --> 00:01:18,729
+if it still wont start let the working
+vehicle run for a few more minutes
+
+27
+00:01:18,729 --> 00:01:23,950
+and try again. once you get the vehicle with
+the dead battery started
+
+28
+00:01:23,950 --> 00:01:28,479
+disconnect the jumper cables by removing
+the negative end first and then the positive.

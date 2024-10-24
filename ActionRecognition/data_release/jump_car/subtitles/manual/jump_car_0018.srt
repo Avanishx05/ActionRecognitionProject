@@ -1,0 +1,123 @@
+26
+00:00:00,799 --> 00:00:04,280
+you are gonna start with your good vehicle. the vehicle with the good battery.
+
+27
+00:00:04,280 --> 00:00:08,030
+we're gonna hook up our positive cable.
+
+28
+00:00:08,030 --> 00:00:11,600
+we're going to use the red color code
+sor positive.
+
+29
+00:00:11,600 --> 00:00:16,869
+get a good clamp on our positive
+cable here
+
+30
+00:00:16,869 --> 00:00:20,280
+and then on our negative cable here.
+
+31
+00:00:20,280 --> 00:00:24,920
+now at this point our cables are live. so we wanna
+make sure
+
+32
+00:00:24,920 --> 00:00:29,030
+that we don't touch it. when you come to
+the vehicle with the dead battery what's
+
+33
+00:00:29,030 --> 00:00:30,149
+gonna happen is
+
+34
+00:00:30,149 --> 00:00:33,360
+when you make this connection it'll
+generate spark.
+
+35
+00:00:33,360 --> 00:00:38,000
+that's why we wanna keep the spark away from the
+battery. so we wanna start here
+
+36
+00:00:38,000 --> 00:00:41,349
+the positive side hook up here.
+
+37
+00:00:41,349 --> 00:00:46,489
+then we want to find a good point
+somewhere away from the battery
+
+38
+00:00:46,489 --> 00:00:51,510
+that's metal and will give us a good ground.
+
+39
+00:00:51,510 --> 00:00:54,720
+the other thing you need to be aware of
+is where the belt is where the pulleys
+
+40
+00:00:54,720 --> 00:00:57,739
+are going to be turning. you don't want
+to create
+
+41
+00:00:57,739 --> 00:01:01,239
+an interference with your cables and
+the running vehicle.
+
+42
+00:01:01,239 --> 00:01:04,780
+so at this point okayour cables are hooked up. we got
+
+43
+00:01:04,780 --> 00:01:09,400
+the battery hooked up on the good
+vehicle. we got positive cable on the dead
+
+44
+00:01:09,400 --> 00:01:10,040
+battery
+
+45
+00:01:10,040 --> 00:01:14,239
+and a good ground point away from the
+battery. now we're gonna start our
+
+46
+00:01:14,239 --> 00:01:20,800
+donor car. make sure that all the accessories are turned off
+
+47
+00:01:20,800 --> 00:01:25,500
+so that the battery and the alternator can be dedicated
+to charging up the new car.
+
+48
+00:01:25,500 --> 00:01:29,400
+if it's really dead you can let the vehicles run for a minute.
+
+49
+00:01:29,400 --> 00:01:47,200
+that'll help charge the vehicle battery from the alternator.
+
+50
+00:01:47,200 --> 00:01:52,480
+there you have it. now when you disconnect you want to do it in the exact reverse order.
+
+51
+00:01:52,480 --> 00:01:57,940
+we get our ground cable off. disconnect our
+positive
+
+52
+00:01:57,940 --> 00:02:03,700
+from the dead battery. make sure we keep those
+separated. then we disconnect our good vehicle.
+

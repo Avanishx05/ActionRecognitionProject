@@ -1,0 +1,60 @@
+#README
+    This archive contains videos and associated text downloaded used in the paper
+    "Unsupervised Learning from Narrated Instruction Videos, CVPR2016".
+    It contains data for 5 tasks, Changing a car tire (changing_tire), making coffee
+    (coffee), perform cardioPulmonaryRessucitation (CPR), jump car battery (jump_car), 
+    and repotting plant (repot).
+
+
+archive updated on November 29th, 2016 after some spotted mistakes:
+
+- error in changing_tire.txt have been corrected.
+- error in coffee.txt have been corrected.
+- changing_tire_0009.mpg has been replaced with the correct file used in our experiments (the original one was at 30 fps instead of 60 fps).
+
+
+## ORGANISATION OF EACH SUBFOLDER
+    1) videos/
+		Contains the video files collected in .mpg format. The videos are named
+		name_of_task_****.mpg where **** is the index of the video. 
+        
+    2) subtitles/
+	        i)  ASR/
+			Contains the english closed captions downloaded from YouTube 
+			(mainly obtained from Automatic Speech Recognition).  
+
+		    ii) manual/
+			Contains the manually corrected subtitles.
+	
+    3) annot/
+		Contains the temporal annotations obtained from a supervised list of sub
+		actions which are supposed to well divide the task (e.g. 'screw_wheel' is
+		a subaction of 'changing_tire'). The files are .xgtf files with frame to 
+		frame assignement. Some actions have been marked by the Difficult tag = true
+		due to difficulties such as occlusion. You will notice that some subactions
+		are better defined than others ('get_things_out' vs 'jack_up' for example).
+		Note that you should not trust the framerate given in these files, instead
+		look for the ones given in the text file.
+		These annotations have been obtained with viper software :
+
+		(viper)[http://viper-toolkit.sourceforge.net/products/gt/]
+
+## YOUTUBE DATA LINKS
+	Please find attached the YouTube data links in the files name_of_the_task.txt. This files also
+    contains information about the file (fps, start time and end time compared to the original
+    file).
+	
+## CONTACT
+	For all questions please feel free to contact the first author of the paper 
+	jean-baptiste.alayrac@inria.fr
+	
+## CITATION
+    	If you plan to use these data in publications please cite the following paper:
+
+>        @InProceedings{alayrac16unsupervised,
+>            author      = {Alayrac, Jean-Baptiste and Bojanowski, Piotr and Agrawal, Nishant and Laptev, Ivan and Sivic, Josef and Lacoste-Julien, Simon},
+>            title       = {Unsupervised Learning from Narrated Instruction Videos},
+>            booktitle   = {Computer Vision and Pattern Recognition (CVPR)},
+>            year        = {2016}
+>            }
+	

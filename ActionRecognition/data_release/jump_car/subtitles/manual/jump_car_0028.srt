@@ -1,0 +1,141 @@
+13
+00:00:00,960 --> 00:00:03,620
+so this is our dead car and this is our
+
+14
+00:00:03,620 --> 00:00:07,180
+donor car. it's important to get them
+parked beside each other but make sure
+
+15
+00:00:07,180 --> 00:00:10,640
+they're not touching and ensure that
+ignition is off in both cars.
+
+16
+00:00:10,640 --> 00:00:14,410
+so depending on your car make and model
+there might be color identifiers
+
+17
+00:00:14,410 --> 00:00:18,370
+to indicate whether it's the positive or the
+negative terminal of the battery.
+
+18
+00:00:18,370 --> 00:00:23,370
+so you're going to connect the red cable to the
+positive terminal of the dead car.
+
+19
+00:00:23,370 --> 00:00:26,860
+then you're going to connect the
+opposite end of the red cable
+
+20
+00:00:26,860 --> 00:00:29,930
+to the positive terminal on the donor
+car.
+
+21
+00:00:29,930 --> 00:00:33,590
+so next I'm gonna place the black cable
+
+22
+00:00:33,590 --> 00:00:37,979
+on the negative terminal of the donor
+car. lastly I'm gonna place the
+
+23
+00:00:37,979 --> 00:00:39,530
+other end of the black cable
+
+24
+00:00:39,530 --> 00:00:43,229
+on an unpainted earthed point on the dead
+car.
+
+25
+00:00:43,229 --> 00:00:47,630
+now once you have the cables connected
+to both cars leave it for about three
+
+26
+00:00:47,630 --> 00:00:48,700
+minutes. that allows
+
+27
+00:00:48,700 --> 00:00:51,789
+the voltage of the batteries to equalize
+between the cars.
+
+28
+00:00:51,789 --> 00:00:55,340
+in that time it's a good idea just to
+make sure that the cables are
+
+29
+00:00:55,340 --> 00:01:00,270
+outside the engine bay and not near any
+of the moving parts. after the three minutes
+
+30
+00:01:00,270 --> 00:01:06,110
+start the engine of the donor card and let
+ir run for a few minutes before
+
+31
+00:01:06,110 --> 00:01:09,720
+starting the engine of the dead car.
+
+32
+00:01:09,720 --> 00:01:13,720
+so start the engine of the dead car.
+
+33
+00:01:13,720 --> 00:01:19,130
+once that's started let both cars run the engines for ten
+minutes. make sure you turn off the
+
+34
+00:01:19,130 --> 00:01:21,760
+ignition in both cars before removing
+the clips.
+
+35
+00:01:21,760 --> 00:01:26,080
+the clips will be removed in the reverse
+order that they were placed initially.
+
+36
+00:01:26,080 --> 00:01:30,970
+so firstly remove the black cable from
+the earthing point on the dead car. next
+
+37
+00:01:30,970 --> 00:01:33,740
+we're gonna remove the other end of the
+black cable from
+
+38
+00:01:33,740 --> 00:01:38,080
+the donor car. so third I'm going to
+remove the red cable
+
+39
+00:01:38,080 --> 00:01:42,570
+from the donor car and finally I'm
+gonna remove the red cable from the dead
+
+40
+00:01:42,570 --> 00:01:42,910
+car.
+
+41
+00:01:42,910 --> 00:01:46,739
+once the cables are removed from the car
+you can start the engine in your dead
+
+42
+00:01:46,739 --> 00:01:47,209
+car.

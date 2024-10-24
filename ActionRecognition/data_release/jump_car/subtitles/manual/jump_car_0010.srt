@@ -1,0 +1,209 @@
+23
+00:00:00,729 --> 00:00:05,060
+Park both cars in neutral next to each
+other so they are close but not touching.
+
+24
+00:00:05,060 --> 00:00:08,210
+and put the handbrakes on. you don't
+want them to roll away.
+
+25
+00:00:08,210 --> 00:00:12,590
+next you should pop open both car bonnets
+and secure them.
+
+26
+00:00:12,590 --> 00:00:15,920
+then check that the jump leads can reach
+from one car battery to the other.
+
+27
+00:00:15,920 --> 00:00:18,729
+stand over by the car with a good
+battery.
+
+28
+00:00:18,729 --> 00:00:22,780
+the red jump lead is the positive lead. so
+find the positive terminal
+
+29
+00:00:22,780 --> 00:00:26,149
+on the working battery. now this should
+have some kind of a plus Symbol
+
+30
+00:00:26,149 --> 00:00:30,259
+or will have a red cap or red markings.
+connect to this terminal using the click
+
+31
+00:00:30,259 --> 00:00:31,659
+at the end of the read jump lead.
+
+32
+00:00:31,659 --> 00:00:35,210
+check that the teeth gripped the
+terminal properly. then go back to the
+
+33
+00:00:35,210 --> 00:00:37,530
+car with the flat battery and connect the
+other end
+
+34
+00:00:37,530 --> 00:00:42,229
+of this red jump lead to the positive terminal
+on the flat battery. you then need to
+
+35
+00:00:42,229 --> 00:00:44,329
+switch back to the car with the good
+battery.
+
+36
+00:00:44,329 --> 00:00:48,350
+pick up the black jump lead and connect
+it to the negative terminal which should
+
+37
+00:00:48,350 --> 00:00:49,719
+have a minus symbol
+
+38
+00:00:49,719 --> 00:00:53,490
+or a black cap. now this is the tricky
+bit to remember.
+
+39
+00:00:53,490 --> 00:00:57,009
+with the other end of the black jump lead
+move back to the car with the dead battery.
+
+40
+00:00:57,009 --> 00:01:01,140
+this time instead of connecting it to
+the negative terminal you will need to find a
+
+41
+00:01:01,140 --> 00:01:02,460
+solid piece of metal
+
+42
+00:01:02,460 --> 00:01:06,040
+on the engine like a bolt or a bracket.
+double-checking that its
+
+43
+00:01:06,040 --> 00:01:10,530
+firmly attached. this earthing point has
+to be away from the fuel system
+
+44
+00:01:10,530 --> 00:01:14,600
+and the battery. some cars even have a
+specific earthing rod for this purpose.
+
+45
+00:01:14,600 --> 00:01:19,060
+check your hand book to find out if yours does.
+that should be all four ends to the jump leads
+
+46
+00:01:19,060 --> 00:01:20,220
+properly connected.
+
+47
+00:01:20,220 --> 00:01:24,910
+now once all the jump leads are hooked up wait
+a few minutes for the voltages to
+
+48
+00:01:24,910 --> 00:01:25,880
+equalize.
+
+49
+00:01:25,880 --> 00:01:29,730
+once you have waited for a bit you'll then need
+to start the engine of the healthy car.
+
+50
+00:01:29,730 --> 00:01:33,760
+leave this engine running and then try and start
+
+51
+00:01:33,760 --> 00:01:35,750
+the engine of the car which had the flat battery.
+
+52
+00:01:35,750 --> 00:01:39,460
+if it doesn't work wait a bit longer with
+the engine of the other car still
+
+53
+00:01:39,460 --> 00:01:41,600
+running before trying to start the
+engine again.
+
+54
+00:01:41,600 --> 00:01:45,430
+if the engine does start then leave both
+cars running for ten minutes.
+
+55
+00:01:45,430 --> 00:01:48,750
+now if you notice that the jump leads
+are getting a bit hot then you need to
+
+56
+00:01:48,750 --> 00:01:51,200
+turn the engines off to let them cool
+down a bit.
+
+57
+00:01:51,200 --> 00:01:55,680
+after the 10 minutes are up the next step is to
+turn off both the car engines.
+
+58
+00:01:55,680 --> 00:01:58,780
+then in reverse order you need to
+carefully remove
+
+59
+00:01:58,780 --> 00:02:03,480
+each of the jump leads. be really careful
+not to touch the clips against each
+
+60
+00:02:03,480 --> 00:02:03,850
+other
+
+61
+00:02:03,850 --> 00:02:07,580
+or make contact with any of the metal
+such as the car's bodywork.
+
+62
+00:02:07,580 --> 00:02:12,370
+otherwise you will cause a bit of a bang. start
+by carefully unclipping the black
+
+63
+00:02:12,370 --> 00:02:15,800
+jump lead from the earthing point. then 
+unclick the other negative end of the same
+
+64
+00:02:15,800 --> 00:02:16,510
+lead.
+
+65
+00:02:16,510 --> 00:02:20,160
+do the same with the red jump lead 
+unclipping it from the positive terminals
+
+66
+00:02:20,160 --> 00:02:21,190
+of the donor car and then the newly charged car.

@@ -1,0 +1,569 @@
+11
+00:00:00,000 --> 00:00:05,129
+so the first step is to get a car that runs and pull it up to the car with the dead battery so the jumper cables could reach
+
+12
+00:00:05,129 --> 00:00:06,129
+both batteries.
+
+13
+00:00:06,129 --> 00:00:09,320
+you wanna make sure both cars are separated
+and don't touch each other when you do
+
+14
+00:00:09,320 --> 00:00:09,820
+this.
+
+15
+00:00:09,820 --> 00:00:13,170
+you also wanna make sure that you take the keys
+out of the ignition for both vehicles.
+
+16
+00:00:13,170 --> 00:00:16,909
+for each of our vehicles you want to find
+the battery and find where the positive
+
+17
+00:00:16,909 --> 00:00:20,809
+and negative leads are. this in my truck
+battery. this is the battery that works.
+
+18
+00:00:20,809 --> 00:00:24,180
+so here is the positive. it's red and then
+here's the negative
+
+19
+00:00:24,180 --> 00:00:29,369
+it's black. now if we go over to our van
+which is not starting
+
+20
+00:00:29,369 --> 00:00:32,610
+we can look at the battery. you can see right
+here
+
+21
+00:00:32,610 --> 00:00:36,740
+black cable. that's our negative and this
+one is our positive it's the
+
+22
+00:00:36,740 --> 00:00:40,110
+red cable. so once you identify that we
+could begin.
+
+23
+00:00:40,110 --> 00:00:43,520
+now you want to take your jumper cables and
+spread them out to have one red one
+
+24
+00:00:43,520 --> 00:00:44,070
+black
+
+25
+00:00:44,070 --> 00:00:48,210
+in each hand and just detangle the wires.
+here's the dead battery in our van
+
+26
+00:00:48,210 --> 00:00:50,869
+and we'll take out the jumper cables. from
+this point forward we don't want the
+
+27
+00:00:50,869 --> 00:00:52,570
+jumper cable ends to touch each other.
+
+28
+00:00:52,570 --> 00:00:55,619
+first thing we are gonna do is take one
+side of the jumper cables. we're going to
+
+29
+00:00:55,619 --> 00:00:56,280
+get our red
+
+30
+00:00:56,280 --> 00:01:00,000
+which is our positive and we are gonna attach it to
+the positive side of the dead battery.
+
+31
+00:01:00,000 --> 00:01:05,150
+make sure you get a good connection
+right on that battery post.
+
+32
+00:01:05,150 --> 00:01:08,710
+you can see that these copper pieces are
+touching the metal on the post
+
+33
+00:01:08,710 --> 00:01:11,320
+and there's a good connection. if you
+want you can wiggle it around a little
+
+34
+00:01:11,320 --> 00:01:13,010
+bit. just make sure you get it in there
+good.
+
+35
+00:01:13,010 --> 00:01:16,560
+the reason why you attach the red cable to
+the dead battery first
+
+36
+00:01:16,560 --> 00:01:20,200
+is because the dead battery doesn't have
+as much energy as the good battery.
+
+37
+00:01:20,200 --> 00:01:23,979
+so starting here's the safest. you could
+take your ground and just put it on a piece of
+
+38
+00:01:23,979 --> 00:01:24,720
+plastic.
+
+39
+00:01:24,720 --> 00:01:28,880
+you don't want your ground touching any
+bare metal. then you'll be grounding
+
+40
+00:01:28,880 --> 00:01:30,810
+it out. we'll leave it there for now.
+
+41
+00:01:30,810 --> 00:01:34,150
+we're gonna connect it to the battery in
+a second. now we are gonna go over to the good
+
+42
+00:01:34,150 --> 00:01:34,740
+battery.
+
+43
+00:01:34,740 --> 00:01:38,450
+we're gonna grab both of our leads just like we
+did before. don't touch 'em together.
+
+44
+00:01:38,450 --> 00:01:41,489
+we're going to take our red one and put
+it on the positive terminal
+
+45
+00:01:41,489 --> 00:01:45,709
+which is also red. at the good battery
+you're going to get the black lead
+
+46
+00:01:45,709 --> 00:01:50,040
+and we're going to attach it to our
+negative side here. so attach this here.
+
+47
+00:01:50,040 --> 00:01:53,519
+now we have the black lead and the red
+lead
+
+48
+00:01:53,519 --> 00:01:57,450
+on the good battery attached. back at the
+dead battery this is the last lead we
+
+49
+00:01:57,450 --> 00:01:58,400
+have to attach.
+
+50
+00:01:58,400 --> 00:02:01,690
+but you are not going to attach it to the negative
+battery terminal. touching a lead to
+
+51
+00:02:01,690 --> 00:02:03,849
+negative battery terminal will cause a
+spark.
+
+52
+00:02:03,849 --> 00:02:06,190
+these sparks can ignite any fumes from
+the battery
+
+53
+00:02:06,190 --> 00:02:09,810
+and cause an explosion. batteries can
+create hydrogen gas especially when they
+
+54
+00:02:09,810 --> 00:02:10,580
+rundown
+
+55
+00:02:10,580 --> 00:02:13,600
+and are not working properly and hydrogen
+gas is explosive.
+
+56
+00:02:13,600 --> 00:02:17,080
+so to play it safe just find another
+grounding point. some cars have a ground
+
+57
+00:02:17,080 --> 00:02:17,510
+spot
+
+58
+00:02:17,510 --> 00:02:20,640
+away from the battery specifically for
+jumping your car. so check your owner's
+
+59
+00:02:20,640 --> 00:02:21,110
+manual.
+
+60
+00:02:21,110 --> 00:02:24,860
+if not find a bare piece of metal
+for the ground that isn't a moving part
+
+61
+00:02:24,860 --> 00:02:28,730
+and is not attached to an electrical
+component. so when looking for a ground
+
+62
+00:02:28,730 --> 00:02:31,830
+you wanna try to find something that
+is bare metal. if we look here
+
+63
+00:02:31,830 --> 00:02:35,450
+there's a nice ground here but
+unfortunately this wire is pretty thin.
+
+64
+00:02:35,450 --> 00:02:38,470
+so if you don't have a good connection
+to this ground this wire is thin
+
+65
+00:02:38,470 --> 00:02:43,650
+so you could actually melt it. a good spot to
+look is on the engine. we are looking at
+
+66
+00:02:43,650 --> 00:02:44,570
+the engine here.
+
+67
+00:02:44,570 --> 00:02:48,490
+here's a nice bare piece of metal. my only
+problem with this piece of metal is that
+
+68
+00:02:48,490 --> 00:02:50,360
+it's right next to the fuel pressure
+regulator.
+
+69
+00:02:50,360 --> 00:02:54,360
+we're trying to avoid sparks next to
+anything flammable. so this isn't a spot
+
+70
+00:02:54,360 --> 00:02:55,480
+that I would want to use.
+
+71
+00:02:55,480 --> 00:02:58,480
+but it's nice because it's a nice thick
+piece of metal. its bare metal.
+
+72
+00:02:58,480 --> 00:03:02,060
+it's directly connected to the engine
+so you get a good ground.
+
+73
+00:03:02,060 --> 00:03:05,560
+in my case what i am gonna do is I'm gonna go find
+the strut tower.
+
+74
+00:03:05,560 --> 00:03:09,290
+as you can see on my strut tower there
+is a bunch of good bolts that provide a good
+
+75
+00:03:09,290 --> 00:03:09,870
+ground
+
+76
+00:03:09,870 --> 00:03:13,180
+and they're also bare metal. so we're
+gonna attach it to that. the other good thing
+
+77
+00:03:13,180 --> 00:03:15,370
+is this strut tower is away from the
+battery
+
+78
+00:03:15,370 --> 00:03:18,310
+so we don't have to worry about sparks.
+but there's tons of grounds that you could
+
+79
+00:03:18,310 --> 00:03:18,830
+use.
+
+80
+00:03:18,830 --> 00:03:23,470
+in this case this is just one of them.
+just get in here and clamp right down on
+
+81
+00:03:23,470 --> 00:03:24,040
+to that.
+
+82
+00:03:24,040 --> 00:03:28,970
+make sure you have a good connection.
+so with our cables all set up one last
+
+83
+00:03:28,970 --> 00:03:31,920
+thing you want to do is you want to inspect
+to make sure that these cables
+
+84
+00:03:31,920 --> 00:03:35,209
+are not near any cooling fans. you can see our
+cooling fans are over here
+
+85
+00:03:35,209 --> 00:03:38,540
+so we don't have to worry about that. our
+serpentine belt is on the other side
+
+86
+00:03:38,540 --> 00:03:41,550
+so we don't have to worry about that. now
+that our cables are clear lets check
+
+87
+00:03:41,550 --> 00:03:42,640
+out the other side.
+
+88
+00:03:42,640 --> 00:03:45,900
+moving to the good battery side the fan
+is right here as well as the serpentine
+
+89
+00:03:45,900 --> 00:03:48,400
+belt and our cables are out of the way over
+here.
+
+90
+00:03:48,400 --> 00:03:51,370
+so we're ready to jump the vehicle.
+now we're gonna start the engine in my
+
+91
+00:03:51,370 --> 00:03:52,860
+truck which is the good battery
+
+92
+00:03:52,860 --> 00:04:01,760
+and let it run for two minutes. 
+
+93
+00:04:01,760 --> 00:04:04,530
+my truck has been running for about two
+minutes so we can start the engine in my
+
+94
+00:04:04,530 --> 00:04:05,110
+van.
+
+95
+00:04:05,110 --> 00:04:07,620
+hopefully it'll start up.
+
+98
+00:04:12,720 --> 00:04:14,520
+there we go.
+
+99
+00:04:14,520 --> 00:04:19,009
+now right away you want to go and take
+off the negative terminal first.
+
+100
+00:04:19,009 --> 00:04:23,259
+and now if I take this off and it sparks
+it is away from the battery which is being
+
+101
+00:04:23,259 --> 00:04:23,919
+charged
+
+102
+00:04:23,919 --> 00:04:27,979
+and potentially creating hydrogen gas.
+if we take off the red terminal first
+
+103
+00:04:27,979 --> 00:04:31,550
+we could create a spark right here which
+is on top of the battery which wouldn't be
+
+104
+00:04:31,550 --> 00:04:32,000
+good.
+
+105
+00:04:32,000 --> 00:04:36,650
+so we remove the negative terminal first.
+don't let this touch anything.
+
+106
+00:04:36,650 --> 00:04:40,580
+then we remove our positive terminal on 
+the bad battery.
+
+107
+00:04:40,580 --> 00:04:45,060
+make sure these don't touch. then you
+remove the red cable
+
+108
+00:04:45,060 --> 00:04:49,199
+and then the black cable.
+
+109
+00:04:49,199 --> 00:04:54,009
+now your car started so you are not
+stranded anymore. so let's just give a scenario
+
+110
+00:04:54,009 --> 00:04:56,310
+where you go to start your car and it
+doesn't work.
+
+111
+00:04:56,310 --> 00:05:00,770
+it slowly drags but we don't get the car
+started. let the car sit for another five
+
+112
+00:05:00,770 --> 00:05:01,349
+minutes.
+
+113
+00:05:01,349 --> 00:05:05,030
+let that other car that's running charge
+up your battery. essentially the
+
+114
+00:05:05,030 --> 00:05:08,960
+alternator in the other car is charging
+your battery so sit for five more
+
+115
+00:05:08,960 --> 00:05:09,550
+minutes.
+
+116
+00:05:09,550 --> 00:05:13,259
+take the key out of the ignition and in five
+minutes try starting it again.
+
+117
+00:05:13,259 --> 00:05:16,129
+if it seems like you're really close to
+starting but you just need a little bit
+
+118
+00:05:16,129 --> 00:05:16,930
+more juice
+
+119
+00:05:16,930 --> 00:05:21,210
+have that person in the car with the good
+battery rev up the engine to about 2a000
+
+120
+00:05:21,210 --> 00:05:23,599
+rpms
+
+121
+00:05:23,599 --> 00:05:27,009
+and hold it there as you try to start
+the vehicle with the dead battery. this
+
+122
+00:05:27,009 --> 00:05:30,180
+will get the alternator spinning faster
+so you will have more power to start the car
+
+123
+00:05:30,180 --> 00:05:31,110
+with the bad battery.
+
+124
+00:05:31,110 --> 00:05:34,750
+after all that if all you get is a
+click and you can't start your engine
+
+125
+00:05:34,750 --> 00:05:38,159
+your battery could be permanently bad.
+there could be a bad cell in there, there could
+
+126
+00:05:38,159 --> 00:05:39,360
+be a shortage internally.
+
+127
+00:05:39,360 --> 00:05:42,870
+but before you give up make sure that
+you have a good connection on both the
+
+128
+00:05:42,870 --> 00:05:43,550
+positive
+
+129
+00:05:43,550 --> 00:05:47,509
+and negative terminals. make sure you check
+the connections on the bad battery
+
+130
+00:05:47,509 --> 00:05:51,039
+as well as the good battery. another
+thing to do is if you attach it to this
+
+131
+00:05:51,039 --> 00:05:51,669
+ground
+
+132
+00:05:51,669 --> 00:05:54,590
+and it won't start the car try
+connecting it to a better ground.
+
+133
+00:05:54,590 --> 00:05:57,259
+a lot of times switching to another ground
+will start the car.

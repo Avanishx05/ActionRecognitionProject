@@ -1,0 +1,75 @@
+6
+00:00:00,950 --> 00:00:04,590
+when you open the hood the first thing
+you should do is identify the battery.
+
+7
+00:00:04,590 --> 00:00:09,310
+positive end is marked red and the
+negative end is marked black. step one.
+
+8
+00:00:09,310 --> 00:00:10,660
+connect the red clamp to the
+
+9
+00:00:10,660 --> 00:00:16,460
+bad battery. don't keep the keys
+
+10
+00:00:16,460 --> 00:00:21,079
+in the ignition of the dead car until
+you're ready to start it. step two.
+
+11
+00:00:21,079 --> 00:00:21,680
+connect
+
+12
+00:00:21,680 --> 00:00:35,960
+the red clamp to the good battery. step three. connect
+the black clamp to the good battery.
+
+13
+00:00:35,960 --> 00:00:39,090
+step four. connect the other black clamp to
+ground on the bad
+
+14
+00:00:39,090 --> 00:00:44,400
+battery. a ground is any metal part of the
+frame or the engine.
+
+15
+00:00:44,400 --> 00:00:54,329
+step five. start the good car.
+
+16
+00:00:54,329 --> 00:00:55,440
+step six.
+
+17
+00:00:55,440 --> 00:00:59,050
+start the bad car.
+
+18
+00:00:59,050 --> 00:01:00,950
+once you have
+
+19
+00:01:00,950 --> 00:01:03,900
+your vehicle up and running you disconnect your cables in the exact opposite order.
+
+20
+00:01:03,900 --> 00:01:07,870
+starting with the black cable of the bad car.
+
+21
+00:01:07,870 --> 00:01:14,690
+step two. remove the black clamp from the good
+battery.
+
+22
+00:01:14,690 --> 00:01:22,810
+step three. remove the red clamp from the
+good battery. lastly the red cable off of the bad car.

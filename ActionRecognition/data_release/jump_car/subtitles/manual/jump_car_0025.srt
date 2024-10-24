@@ -1,0 +1,199 @@
+9
+00:00:00,680 --> 00:00:03,770
+your typical jumper cables will come with two red clamps
+
+10
+00:00:03,770 --> 00:00:08,090
+and two black clamps. identify the
+battery posts on both batteries.
+
+11
+00:00:08,090 --> 00:00:12,010
+positive will have anything red
+associated with it. the red
+
+12
+00:00:12,010 --> 00:00:17,040
+cover the red clamps the little positive
+symbol right there.
+
+13
+00:00:17,040 --> 00:00:20,470
+on the negative side you'll have black
+cables
+
+14
+00:00:20,470 --> 00:00:23,680
+and a little negative symbol right
+there.
+
+15
+00:00:23,680 --> 00:00:27,010
+sometimes it's very difficult to find
+any coloring or any symbol.
+
+16
+00:00:27,010 --> 00:00:31,190
+one trick is to look at the size of the post.
+the positive is going to be much larger
+
+17
+00:00:31,190 --> 00:00:32,250
+in diameter
+
+18
+00:00:32,250 --> 00:00:35,560
+than the negative post. it's best to know
+which is which
+
+19
+00:00:35,560 --> 00:00:41,600
+because if you hook them up backwards you can
+have serious electrical problems.
+
+20
+00:00:41,600 --> 00:00:47,110
+worse still as your battery discharges it
+starts to emit a hydrogen gas.
+
+21
+00:00:47,110 --> 00:00:54,490
+mix that with spark and boom.
+
+22
+00:00:54,490 --> 00:00:57,960
+you get what I'm sayin. now you attach
+the two red clamps.
+
+23
+00:00:57,960 --> 00:01:02,190
+it doesn't really matter what order
+because you're not getting a final
+
+24
+00:01:02,190 --> 00:01:02,930
+contact.
+
+25
+00:01:02,930 --> 00:01:06,770
+notice i wiggle the clamps
+
+26
+00:01:06,770 --> 00:01:12,050
+to get better contact. without allowing the
+black clamp touch any exposed metal
+
+27
+00:01:12,050 --> 00:01:16,940
+areas. good plastic bumper like this is
+good. now you attach the black clamp
+
+28
+00:01:16,940 --> 00:01:20,370
+to the car that you're starting it with
+on the negative post. for your final
+
+29
+00:01:20,370 --> 00:01:21,020
+connection
+
+30
+00:01:21,020 --> 00:01:25,730
+and this is the one that counts you wanna
+find an exposed metal location on your
+
+31
+00:01:25,730 --> 00:01:26,250
+engine
+
+32
+00:01:26,250 --> 00:01:31,190
+and clamp it to it. now
+
+33
+00:01:31,190 --> 00:01:37,450
+electricity will flow from the live
+battery to the dead battery. I recommend
+
+34
+00:01:37,450 --> 00:01:39,250
+you run the car with the live battery
+
+35
+00:01:39,250 --> 00:01:42,250
+to increase the flow of electricity. in
+fact
+
+36
+00:01:42,250 --> 00:01:44,440
+you can rev the engine
+
+37
+00:01:44,440 --> 00:01:47,469
+for a faster flow of electricity.
+
+38
+00:01:47,469 --> 00:01:57,150
+
+39
+00:01:57,150 --> 00:02:01,220
+now try to start it. if it doesn't start
+right away
+
+40
+00:02:01,220 --> 00:02:04,810
+it's no problem. you'll just need to
+spend more time waiting to charge that
+
+41
+00:02:04,810 --> 00:02:05,530
+dead
+
+42
+00:02:05,530 --> 00:02:12,890
+battery.
+
+43
+00:02:12,890 --> 00:02:18,680
+
+
+44
+00:02:18,680 --> 00:02:21,799
+try starting it again.
+
+45
+00:02:21,799 --> 00:02:25,209
+
+
+46
+00:02:25,209 --> 00:02:28,260
+
+
+47
+00:02:28,260 --> 00:02:33,690
+your car is running now. pretty bad to leave the cables
+dangling from the front of the car as
+
+48
+00:02:33,690 --> 00:02:36,670
+you drive down the road so I'd suggest you
+disconnect the cables.
+
+49
+00:02:36,670 --> 00:02:40,640
+starting with the last one that you hooked up.
+that's your negative
+
+50
+00:02:40,640 --> 00:02:47,280
+clamp. spark is just as important at this
+time so make sure to let it go against
+
+51
+00:02:47,280 --> 00:02:48,290
+your plastic bumper.
+
+52
+00:02:48,290 --> 00:02:51,680
+from there you then disconnect the
+cable on the car that started it followed by the two red cables.
