@@ -1,6 +1,6 @@
 # Action Recognition: Temporal Generalization Study
 
-**Status:** Data pipeline and EDA done across 4 datasets. Experiment designed but not implemented yet — lost compute access post graduation. Continuing this at IIIT Hyderabad.
+**Status:** Data pipeline and EDA done across 4 datasets. Experiment designed but not implemented yet.
 
 ---
 
