@@ -20,7 +20,6 @@ The idea is to test this properly with a temporal train/test split across four l
 
 | Model | Type | Notes |
 |---|---|---|
-| [InternVideo2](https://arxiv.org/abs/2403.15377) | Video-Language Transformer | Current SOTA on several benchmarks |
 | [VideoSwin](https://arxiv.org/abs/2106.13230) | Hierarchical Transformer | Swin backbone adapted for video |
 | [ViViT](https://arxiv.org/abs/2103.15691) | Pure Transformer | Factorized spatiotemporal attention |
 | [I3D](https://arxiv.org/abs/1705.07750) | 3D CNN | Inflated Inception, still a solid baseline |
@@ -155,7 +154,6 @@ Several factors likely contribute to this:
 **Future work:**
 - [ ] VideoSwin — hierarchical transformer, same Kinetics pretraining, different architecture family
 - [ ] ViViT — pure transformer with factorized spatiotemporal attention
-- [ ] InternVideo2 — SOTA model, to test whether scale and richer pretraining mitigates temporal shift
 - [ ] Overfitting mitigation strategies — data augmentation, partial backbone unfreezing, early stopping — and whether they reduce temporal degradation
 - [ ] Experiments on larger datasets (HowTo100M, COIN, CrossTask) — larger training sets may naturally reduce overfitting to era-specific visual features, smoothing the temporal degradation curve
 - [ ] Per-category analysis — which recipe/action types are most affected by temporal shift
